@@ -1,0 +1,3 @@
+UNLV's hub for advanced brain imaging and interdisciplinary research using MR technology.
+
+This site serves as the central hub for researchers seeking access to UMIC resources and supports the planning, approval, and execution of MR studies. Here you will find essential information on Institutional Review Board (IRB) requirements, scheduling procedures, fee structures, required training modules, and MR safety documentation. The site also hosts the MR Imaging Facility User Guide, technical instructions, and contact information for assistance and support. Whether you are a new or returning user, this resource is designed to help ensure safe, compliant, and successful use of the UMIC.
