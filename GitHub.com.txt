@@ -1,0 +1,16 @@
+GitHub.com
+fmri@unlv.edu or unlvfmri
+UnlvFmriMountainGithubPassword2026
+
+
+
+https://unlvfmri.github.io/umic/
+
+cmd
+cd documents
+cd unlv-mr-imaging-core
+py -m mkdocs gh-deploy
+
+Ctrl Shift R  -- Deploys the new changes on the website.
+
+https://unlvfmri.github.io/umic/

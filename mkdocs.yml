@@ -1,1 +1,58 @@
-site_name: My Docs
+site_name: UNLV MR Imaging Core
+
+theme:
+  name: material
+  logo: assets/unlvreverse.png
+  palette:
+    primary: custom
+  features:
+    - navigation.sections
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+
+  - Getting Started:
+      - Overview: getting-started.md
+
+  - Training:
+      - Overview: training.md
+
+  - Screening Process:
+      - Overview: screening.md
+
+  - MRI Prisma 3T:
+      - Overview: prisma.md
+      - Coils & Equipment: prisma-coils.md
+
+  - Safety:
+      - Overview: safety.md
+      - Emergency Power Shutoff: safety-power.md
+      - Fire Extinguisher: safety-fire.md
+      - AED Usage: safety-aed.md
+      - Patient Removal: safety-removal.md
+      - Magnet Quench: safety-quench.md
+
+  - Policies:
+      - Overview: policies.md
+
+  - Operations:
+      - Prisma Operating Tips: tips.md
+      - Shutdown & Reboot: shutdown.md
+
+  - Pricing & Parking:
+      - Overview: pricing.md
+
+  - News:
+      - Overview: news.md
+
+  - Contact & Directions:
+      - Overview: contact.md
+
+markdown_extensions:
+  - toc:
+      permalink: false
+  - attr_list
+  - md_in_html
