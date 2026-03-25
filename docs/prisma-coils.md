@@ -1,40 +1,29 @@
-\# Prisma Coils \& Equipment
+## Prisma Coils & Equipment
 
+---
 
+### Head Coils
 
-\## Head Coils
+- Head/Neck Coil – 20 channel  
+- Head Coil – 32 channel  
+- Head/Neck Coil – 64 channel  
 
+---
 
+### Torso Coils
 
-\- Head/Neck Coil – 20ch  
+- Body Coil – 18 channel  
+- Spine Coil – 32 channel  
 
-\- Head Coil – 32ch  
+---
 
-\- Head/Neck Coil – 64ch  
+### General Use Coils
 
+- Flex Coil – Large & Small  
 
+---
 
-\## Torso Coils
+### Additional Equipment
 
-
-
-\- Body Coil – 18ch  
-
-\- Spine Coil – 32ch  
-
-
-
-\## General Use
-
-
-
-\- Flex Coil – Large \& Small  
-
-
-
-\## Additional Equipment
-
-
-
-\- Nordic TV system
+- Nordic TV system  
 

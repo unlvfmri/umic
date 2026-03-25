@@ -1,56 +1,37 @@
-\# Screening Process \& Metal Detector
+!!! warning "Safety Requirement"
 
+    The MRI magnet is always on. Strict screening procedures must be followed at all times.
 
+## Screening Process /& Metal Detector
 
-The MRI magnet is always on. Strict screening is required.
-
-
-
-\## 1. Pre-Screening
-
-
+## 1. Pre-Screening
 
 Participants must complete an MRI Screening Form.
 
-
-
 Checks include:
 
-\- Pacemakers or implants
+- Pacemakers or implants
 
-\- Surgical clips or metal
+- Surgical clips or metal
 
-\- Pregnancy or eye metal exposure
+- Pregnancy or eye metal exposure
 
+## 2. Physical Preparation
 
+- Remove all personal items
 
-\## 2. Physical Preparation
+- Change into provided gown
 
+- Store belongings in lockers
 
+## 3. Metal Detector
 
-\- Remove all personal items
+- Walk through detector slowly
 
-\- Change into provided gown
+- If alarm sounds → return and remove metal
 
-\- Store belongings in lockers
+- Entry not allowed until cleared
 
-
-
-\## 3. Metal Detector
-
-
-
-\- Walk through detector slowly
-
-\- If alarm sounds → return and remove metal
-
-\- Entry not allowed until cleared
-
-
-
-\## 4. Technician Verification
-
-
+## 4. Technician Verification
 
 Final approval is given by a Level 3 MRI Technologist.
-

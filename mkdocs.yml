@@ -14,45 +14,35 @@ extra_css:
 nav:
   - Home: index.md
 
-  - Getting Started:
-      - Overview: getting-started.md
+  - New Users at UMIC: new-users.md
 
-  - Training:
-      - Overview: training.md
+  - Training: training.md
 
-  - Screening Process:
-      - Overview: screening.md
+  - Screening Process: screening.md
 
   - MRI Prisma 3T:
-      - Overview: prisma.md
+      - Prisma Home: prisma.md
       - Coils & Equipment: prisma-coils.md
 
-  - Safety:
-      - Overview: safety.md
+  - Safety: 
+      - Safety Home: safety.md
       - Emergency Power Shutoff: safety-power.md
       - Fire Extinguisher: safety-fire.md
       - AED Usage: safety-aed.md
       - Patient Removal: safety-removal.md
       - Magnet Quench: safety-quench.md
 
-  - Policies:
-      - Overview: policies.md
+  - Policies: policies.md
 
-  - Operations:
-      - Prisma Operating Tips: tips.md
-      - Shutdown & Reboot: shutdown.md
+  - Pricing & Parking: pricing.md
 
-  - Pricing & Parking:
-      - Overview: pricing.md
+  - News: news.md
 
-  - News:
-      - Overview: news.md
-
-  - Contact & Directions:
-      - Overview: contact.md
+  - Contact & Directions: contact.md
 
 markdown_extensions:
   - toc:
       permalink: false
   - attr_list
-  - md_in_html
+  - admonition
+  - pymdownx.details

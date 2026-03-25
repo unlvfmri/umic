@@ -20,17 +20,29 @@
 /* Main page title */
 .md-typeset h1 {
   font-size: 2.4em;
+  margin-bottom: 5px;
+}
+
+/* Tagline under title */
+.md-typeset h1 + p {
+  font-style: italic;
+  font-size: 1.15em;
+  color: #555;
+  margin-top: 0;
+  margin-bottom: 12px;
 }
 
 /* Section headers */
 .md-typeset h2 {
   font-size: 1.8em;
-  margin-top: 1.8em;
+  margin-top: 2em;
 }
 
 /* Paragraph text */
 .md-typeset p {
   font-size: 1.1em;
+  line-height: 1.7;
+  margin-bottom: 16px;
 }
 
 /* Slight emphasis for bold text */
@@ -56,14 +68,13 @@
 /* Hero Image */
 /* ============================= */
 
-/* Styles first image on page (homepage banner) */
 .md-typeset > p > img:first-child {
   width: 100%;
   max-height: 400px;
   object-fit: cover;
   border-radius: 6px;
-  margin-top: 10px;
-  margin-bottom: 30px;
+  margin-top: 8px;
+  margin-bottom: 15px;
   filter: contrast(1.05) brightness(0.98);
 }
 
@@ -76,10 +87,9 @@
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
   gap: 16px;
   margin-top: 12px;
-  margin-bottom: 24px;
+  margin-bottom: 18px;
 }
 
-/* Card styling */
 .card {
   display: block;
   padding: 26px;
@@ -91,20 +101,17 @@
   transition: all 0.2s ease, color 0.2s ease;
 }
 
-/* Card title */
 .card h3 {
   margin-top: 0;
   margin-bottom: 12px;
   font-size: 1.35em;
 }
 
-/* Card description */
 .card p {
   margin: 0;
   font-size: 1.1em;
 }
 
-/* Hover + focus */
 .card:hover,
 .card:focus {
   background-color: #BA0C2F;
@@ -112,7 +119,6 @@
   transform: translateY(-2px);
 }
 
-/* Ensure all text turns white on hover */
 .card:hover h3,
 .card:hover p,
 .card:hover a {
@@ -131,7 +137,14 @@
 /* Sidebar Styling */
 /* ============================= */
 
-/* Section headers (Safety, Policies, etc.) */
+/* Top-level navigation (Getting Started, Safety, etc.) */
+.md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link {
+  font-size: 1.1em;
+  font-weight: 600;
+  color: #333;
+}
+
+/* Section headers (like Safety, Policies) */
 .md-nav__item--section > .md-nav__link {
   font-size: 1.1em;
   font-weight: 600;
@@ -146,15 +159,15 @@
   padding-top: 6px;
 }
 
+/* Sub-items (dropdown items like Fire Extinguisher) */
+.md-nav--primary .md-nav__list .md-nav__list .md-nav__link {
+  font-size: 0.95em;
+  font-weight: normal;
+}
+
 /* Slight indent for sub-items */
 .md-nav__list .md-nav__list {
   margin-left: 8px;
-}
-
-/* Sub-item styling (Overview, etc.) */
-.md-nav__list .md-nav__list .md-nav__link {
-  font-size: 0.95em;
-  font-weight: normal;
 }
 
 /* ============================= */
@@ -163,4 +176,33 @@
 
 .md-sidebar--secondary {
   display: none !important;
+}
+.card-grid a {
+  text-decoration: none;
+}
+/* Improve sub-section headings */
+.md-typeset h4 {
+  font-size: 1.2em;
+  margin-top: 1.2em;
+  margin-bottom: 0.4em;
+  font-weight: 600;
+}
+/* Customize warning callout to UNLV style */
+.md-typeset .admonition.warning {
+  border-left: 4px solid #BA0C2F;
+}
+
+.md-typeset .admonition.warning > .admonition-title {
+  background-color: #f5e6e8;
+  color: #333;
+}
+/* Hide page breadcrumb / section label */
+.md-content__button,
+.md-content__inner > .md-typeset > p:first-child strong {
+  display: none;
+}
+
+/* OR more reliably */
+.md-content__inner > nav {
+  display: none;
 }
