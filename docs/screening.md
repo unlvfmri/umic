@@ -4,6 +4,28 @@
 
 ---
 
+<h3>Understanding the Four MRI Safety Zones</h3>
+
+<p>
+The fMRI facility is divided into four progressively restricted zones. 
+Access becomes more controlled and the magnetic risk greater as you move 
+from Zone I toward Zone IV.
+</p>
+
+<div class="image-row">
+
+  <div class="image-item">
+    <img src="/umic/assets/fourzones.jpg">
+  </div>
+
+  <div class="image-item">
+    <img src="/umic/assets/fMRIdoor.jpeg">
+  </div>
+
+</div>
+
+---
+
 ### Screening Process & Metal Detector
 
 ### 1. Pre-Screening (Online/Paper)

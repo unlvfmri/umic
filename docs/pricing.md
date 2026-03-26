@@ -1,24 +1,13 @@
-\# Pricing \& Parking
+## Pricing
 
+- UNLV Rate: TBD  
 
+- External Rate: TBD  
 
-\## Pricing
+---
 
-
-
-\- UNLV Rate: TBD  
-
-\- External Rate: TBD  
-
-
-
-\## Parking
-
-
+## Parking
 
 Use designated participant parking areas.
-
-
-
 Details coming soon.
 
