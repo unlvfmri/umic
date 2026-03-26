@@ -95,9 +95,13 @@
   padding: 26px;
   background-color: #f9f9f9;
   border: 2px solid #a30a28;
-  border-radius: 10px;
+  border-radius: 12px;
   text-decoration: none;
   color: #000;
+
+  /* NEW: elevation */
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+
   transition: all 0.2s ease, color 0.2s ease;
 }
 
@@ -116,7 +120,10 @@
 .card:focus {
   background-color: #BA0C2F;
   color: #ffffff;
-  transform: translateY(-2px);
+  transform: translateY(-4px);  /* slightly more lift */
+
+  /* NEW: stronger shadow on hover */
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.15);
 }
 
 .card:hover h3,
@@ -205,4 +212,8 @@
 /* OR more reliably */
 .md-content__inner > nav {
   display: none;
+}
+/* Add space at bottom of page */
+.md-main__inner {
+  padding-bottom: 60px;
 }
