@@ -314,3 +314,27 @@
   color: #555;
   text-align: center;      /* keep caption centered (optional) */
 }
+/* Two-column layout */
+.two-col {
+  display: flex;
+  gap: 30px;
+  align-items: flex-start;
+  margin: 15px 0;
+}
+
+/* Left column (text) */
+.col-text {
+  width: 55%;
+}
+
+/* Right column (image) */
+.col-image {
+  width: 60%;
+}
+
+.col-image img {
+  width: 100%;
+  max-height: 400px;   /* 🔑 controls size */
+  object-fit: contain;
+  border-radius: 6px;
+}

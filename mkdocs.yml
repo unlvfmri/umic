@@ -20,9 +20,7 @@ nav:
 
   - Screening Process: screening.md
 
-  - MRI Prisma 3T:
-      - Prisma Home: prisma.md
-      - Coils & Equipment: prisma-coils.md
+  - MRI Prisma 3T: prisma.md
 
   - Safety: 
       - Safety Home: safety.md
