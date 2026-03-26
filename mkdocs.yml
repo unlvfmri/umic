@@ -14,7 +14,7 @@ extra_css:
 nav:
   - Home: index.md
 
-  - New Users at UMIC: new-users.md
+  - New Users: new-users.md
 
   - Training: training.md
 

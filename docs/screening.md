@@ -1,20 +1,22 @@
 !!! warning "Safety Requirement"
 
-    The MRI magnet is always on. Strict screening procedures must be followed at all times.
+    **The MRI magnet is always on.** To ensure the safety of all participants, staff, and equipment, the **UNLV MR Imaging Core** follows a strict multi-stage screening protocol.
+
+---
 
 ## Screening Process /& Metal Detector
 
-## 1. Pre-Screening
+## 1. Pre-Screening (Online/Paper)
 
-Participants must complete an MRI Screening Form.
+Before arriving at the facility, all participants and researchers must complete the **MRI Screening Form**. This identifies internal contraindications such as:
 
-Checks include:
+- Pacemakers, neurostimulators, or cochlear implants
 
-- Pacemakers or implants
+- Surgical clips, stents, or metallic implants
 
-- Surgical clips or metal
+- Possibility of pregnancy or history of metal fragments in the eyes
 
-- Pregnancy or eye metal exposure
+---
 
 ## 2. Physical Preparation
 
@@ -24,6 +26,8 @@ Checks include:
 
 - Store belongings in lockers
 
+---
+
 ## 3. Metal Detector
 
 - Walk through detector slowly
@@ -31,6 +35,8 @@ Checks include:
 - If alarm sounds → return and remove metal
 
 - Entry not allowed until cleared
+
+---
 
 ## 4. Technician Verification
 

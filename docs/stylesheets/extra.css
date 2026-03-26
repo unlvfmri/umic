@@ -217,3 +217,15 @@
 .md-main__inner {
   padding-bottom: 60px;
 }
+/* Make bullet points match paragraph text size */
+.md-typeset li {
+  font-size: 1.1em;
+  margin-bottom: 4px;
+}
+.md-typeset h3 {
+  font-weight: 600;
+}
+/* Reduce space after callout boxes */
+.md-typeset .admonition {
+  margin-bottom: 15px;
+}
