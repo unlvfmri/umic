@@ -4,11 +4,11 @@
 
 ---
 
-## Screening Process /& Metal Detector
+### Screening Process & Metal Detector
 
-## 1. Pre-Screening (Online/Paper)
+### 1. Pre-Screening (Online/Paper)
 
-Before arriving at the facility, all participants and researchers must complete the **MRI Screening Form**. This identifies internal contraindications such as:
+Before arriving at the facility, all participants and researchers must complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLSdFufrEQfjp44l7LHJ36BBWQPws7v1ff2nH_jHHQG6jgDNyCg/viewform" target="_blank">**MRI Screening Form**</a>. This identifies internal contraindications such as:
 
 - Pacemakers, neurostimulators, or cochlear implants
 
@@ -18,26 +18,30 @@ Before arriving at the facility, all participants and researchers must complete 
 
 ---
 
-## 2. Physical Preparation
+### 2. Physical Preparation (The Changing Zone)
 
-- Remove all personal items
+Before approaching the Magnet Room (Zone IV), individuals must:
 
-- Change into provided gown
+- **Remove all personal items**: Watches, cell phones, credit cards, keys, and jewelry.
 
-- Store belongings in lockers
+- **Change into participant gown**: To eliniate "hidden" metal (like silver-threaded athletic wear or heavy zippers(, UMIC requires all participants to change into provided attire.
 
----
-
-## 3. Metal Detector
-
-- Walk through detector slowly
-
-- If alarm sounds → return and remove metal
-
-- Entry not allowed until cleared
+- **Lockers**: Secure lockers are provided for all metallic and electronic items.
 
 ---
 
-## 4. Technician Verification
+### 3. The Final Check: Door-Mounted Metal Detector
 
-Final approval is given by a Level 3 MRI Technologist.
+UMIC utilizes an installed **Ferromagnetic Metal Detector** at the entrance of zone IV.
+
+- **The Threshold Test**: Every person must pass through the door-mounted detector slowly. 
+
+- **Alarm Protocol**: If the detector lights up or sounds an alarm, the individual must return to the changing zone to identify the source of the metal. 
+
+- **Zero-Tolerance**: Entry is strictly prohibited until the person can pass through the detector without triggering an alert.
+
+---
+
+### 4. Technician Verification
+
+The **Level 3 MRI Technologist [Minerva Massis](../contact)** has the final authority. They will perform a final verbal confirmation of the screening form and a visual inspection of the participant before granting entry into the magnet bore. 

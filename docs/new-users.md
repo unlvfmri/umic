@@ -26,4 +26,4 @@ All users must complete required [safety training](../training) before accessing
 
 - Hours: 8:00 a.m. – 5:00 p.m. (Mon–Fri)  
 - Contact [fmri@unlv.edu](mailto:fmri@unlv.edu) to schedule an appointment before arriving  
-- Building access must be coordinated with MRI technologist and PI  
+- Building access must be coordinated with MRI technologist, [Minerva Massis](../contact) and/or MR Physicist [Dr. Ayan Sengupta](../contact). 

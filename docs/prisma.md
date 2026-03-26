@@ -1,6 +1,5 @@
-## MRI Prisma 3T
-
-We are proud to host the Siemens Prisma 3T MRI at UNLV.
+![](assets/scanner.jpg)
+We are proud to announce the very first intallation of the **Siemens Prisma 3T MRI** at UNLV.
 
 ---
 
@@ -8,17 +7,19 @@ We are proud to host the Siemens Prisma 3T MRI at UNLV.
 
 !!! note "Facility Location"
 
-    Science and Engineering Building (SEB), Room 1235
+    <a href="https://www.unlv.edu/maps/seb" target="_blank">Science and Engineering Building (SEB)</a>, Room 1235
+
+<img src="/umic/assets/scannerlocation.jpg" class="full-image">
 
 ---
 
-### Facility Layout
+### SEB First Floor
 
-- 1235A – Changing Room  
-- 1235B – Gowning  
+- 1235A – Toilet/Changing Room  
+- 1235B – Private Gowning  
 - 1235C – Waiting Lobby  
+- 1235D - Janitorial Room
 - 1235F – Scan Room  
-- 1235G – Control Room  
-
-*Facility map coming soon.*
-
+- 1235G – Control Room
+- 1235H - Vestibule
+- 1235J - Electrical Room  

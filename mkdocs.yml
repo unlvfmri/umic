@@ -29,7 +29,7 @@ nav:
       - Emergency Power Shutoff: safety-power.md
       - Fire Extinguisher: safety-fire.md
       - AED Usage: safety-aed.md
-      - Patient Removal: safety-removal.md
+      - Participant Removal: safety-removal.md
       - Magnet Quench: safety-quench.md
 
   - Policies: policies.md

@@ -229,3 +229,88 @@
 .md-typeset .admonition {
   margin-bottom: 15px;
 }
+/* Full-width images (no height limit) */
+.full-image {
+  width: 100%;
+  max-height: none;
+  object-fit: contain;
+  border-radius: 6px;
+  margin: 10px 0 20px 0;
+}
+/* Full-width images (override hero image rules) */
+.full-image {
+  width: 100%;
+  max-height: none !important;
+  object-fit: contain;
+  border-radius: 6px;
+  margin: 10px 0 10px 0;
+}
+/* Image grid for coils */
+.image-row {
+  display: flex;
+  gap: 20px;
+  margin: 10px 0 20px 0;
+}
+
+.image-row img {
+  width: 48%;
+  border-radius: 6px;
+  object-fit: cover;
+}
+/* Image grid */
+.image-row {
+  display: flex;
+  gap: 20px;
+  margin: 10px 0 20px 0;
+}
+
+/* Each image block */
+.image-item {
+  width: 48%;
+  text-align: center;
+}
+
+/* Images */
+.image-item img {
+  width: 100%;
+  border-radius: 6px;
+  object-fit: cover;
+}
+
+/* Labels under images */
+.image-item p {
+  margin-top: 8px;
+  font-size: 1em;
+  font-weight: 500;
+  color: #555;
+}
+/* Force same size for all images */
+.image-item img {
+  width: 100%;
+  height: 440px;              /* 🔑 controls uniform height */
+  object-fit: cover;          /* crops nicely */
+  border-radius: 6px;
+}
+/* Single image layout (match other sections) */
+.image-item.single {
+  width: 48%;              /* match width of side-by-side images */
+  margin: 0px 0 20px 0;   /* remove centering */
+  text-align: left;        /* align label left */
+}
+
+/* Image styling */
+.image-item.single img {
+  width: 100%;
+  height: 440px;           /* match your other images */
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+/* Label under image */
+.image-item.single p {
+  margin-top: 8px;
+  font-size: 1em;
+  font-weight: 500;
+  color: #555;
+  text-align: center;      /* keep caption centered (optional) */
+}
