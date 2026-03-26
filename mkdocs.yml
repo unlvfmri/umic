@@ -22,14 +22,8 @@ nav:
 
   - MRI Prisma 3T: prisma.md
 
-  - Safety: 
-      - Safety Home: safety.md
-      - Emergency Power Shutoff: safety-power.md
-      - Fire Extinguisher: safety-fire.md
-      - AED Usage: safety-aed.md
-      - Participant Removal: safety-removal.md
-      - Magnet Quench: safety-quench.md
-
+  - Safety: safety.md
+     
   - Policies: policies.md
 
   - Pricing & Parking: pricing.md

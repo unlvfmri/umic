@@ -1,6 +1,11 @@
 !!! warning "Required Training"
 
     All personnel must complete safety training via CHIMERA before entering UMIC.
+	
+!!! note "Supervision Requirement"
+
+    To ensure the highest standards of participant safety, independent scanning is not permitted. All sessions must be conducted under the direct, on-site supervision of a staff MRI Technologist.
+
 ---
 
 ### Step 1: Access CHIMERA
