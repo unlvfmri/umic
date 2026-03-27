@@ -78,7 +78,7 @@ We are proud to announce the very first intallation of the **Siemens Prisma 3T M
 ### General Use Coils
 
   <div class="image-item single">
-    <img src="/umic/assets/flexcoil4.jpg">
+    <img src="/umic/assets/flexcoil4v2.jpg">
     <p>Flex Coil Large and Small - 4ch</p>
   </div>
 

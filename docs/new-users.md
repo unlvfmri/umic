@@ -12,7 +12,7 @@
 
 ### Step 2: Proposal Approval
 
-Details coming soon.
+Submit your study protocol and proof of IRB approval for administrative review. Our team will evaluate the technical requirements of your project to ensure success on our ystem. You will receive a formal notification once your project is cleared for data collection.
 
 ---
 

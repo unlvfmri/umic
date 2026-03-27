@@ -7,7 +7,7 @@
 <h3>Understanding the Four MRI Safety Zones</h3>
 
 <p>
-The fMRI facility is divided into four progressively restricted zones. 
+The UNLV MR Imaging Core is divided into four progressively restricted zones. 
 Access becomes more controlled and the magnetic risk greater as you move 
 from Zone I toward Zone IV.
 </p>
