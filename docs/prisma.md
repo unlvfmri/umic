@@ -86,4 +86,8 @@ We are proud to announce the very first intallation of the **Siemens Prisma 3T M
 
 ### Peripheral Equipment
 
-- Nordic TV system 
+<div class="image-item single">
+    <img src="/umic/assets/nordic.jpg">
+    <p>nordicBrainEx</p>
+	 <p>Clinical Neuroimaging Software for Funcational MRI</p>
+  </div>
