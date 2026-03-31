@@ -24,7 +24,7 @@
     <img src="/umic/assets/ayansengupta.jpg">
     <div class="contact-info">
       <h3>Ayan Sengupta, Ph.D.</h3>
-      <p><em>MR Physicist</em></p>
+      <p><em>Associate Director</em></p>
       <p><strong>Phone:</strong> 702-895-1116</p>
       <p><strong>Cell:</strong> 630-819-4914</p>
       <p><strong>Email:</strong> <a href="mailto:ayan.sengupta@unlv.edu">ayan.sengupta@unlv.edu</a></p>
