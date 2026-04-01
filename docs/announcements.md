@@ -6,6 +6,12 @@
 
 ---
 
+### May 2026
+
+- **Full Launch**
+
+---
+
 ### April 2026
 
 - **Proposal approvals start**
