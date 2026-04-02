@@ -1,3 +1,26 @@
+---
+
+## Directions
+
+!!! note "Location"
+
+    The **UNLV Imaging Core (UMIC)** is located on the main UNLV campus in the **Science and Engineering Building (SEB)**.
+
+
+- **Address**: 4505 S. Maryland Pkwy, Las Vegas, NV, 89154
+- **Nearest Intersection**: Maryland Parkway and Cottage Grove Ave
+- **Parking**: Please use the metered parking in the "Participant" spots (####)
+
+Once you enter the SEB through the **Main Lobby (North Entrance)**:
+
+- Walk past the elevators toward the **East Wing** of the first floor.
+- Follow signs for the **1200-level hallway**.
+- Look for **Suite 1235** (UNLV MR Imaging Core).
+- A staff member will greet you at the reception area to grant you access.
+
+
+---
+
 ## Contacts
 !!! note "Contact Information"
 
@@ -43,27 +66,4 @@
   </div>
 
 </div>
-
-
----
-
-## Directions
-
-!!! note "Location"
-
-    The **UNLV Imaging Core (UMIC)** is located on the main UNLV campus in the **Science and Engineering Building (SEB)**.
-
-
-- **Address**: 4505 S. Maryland Pkwy, Las Vegas, NV, 89154
-- **Nearest Intersection**: Maryland Parkway and Cottage Grove Ave
-- **Parking**: Please use the metered parking in the "Participant" spots (####)
-
-Once you enter the SEB through the **Main Lobby (North Entrance)**:
-
-- Walk past the elevators toward the **East Wing** of the first floor.
-- Follow signs for the **1200-level hallway**.
-- Look for **Suite 1235** (UNLV MR Imaging Core).
-- A staff member will greet you at the reception area to grant you access.
-
-
 
