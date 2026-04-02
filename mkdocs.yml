@@ -28,13 +28,14 @@ nav:
      
   - Policies: policies.md
 
-  - Scanner Schedule: scheduling_calendar.md
+  - Pricing: pricing.md
 
-  - Pricing & Parking: pricing.md
+  - Scanner Schedule: scheduling_calendar.md
 
   - Announcements: announcements.md
 
-  - Contact & Directions: contact.md
+  - Contact Us: contact.md
+
 
 markdown_extensions:
   - toc:
