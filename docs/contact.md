@@ -1,5 +1,3 @@
----
-
 ## Directions
 
 !!! note "Location"
