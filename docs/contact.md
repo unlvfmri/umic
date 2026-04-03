@@ -16,6 +16,12 @@ Once you enter the SEB through the **Main Lobby (North Entrance)**:
 - Look for **Suite 1235** (UNLV MR Imaging Core).
 - A staff member will greet you at the reception area to grant you access.
 
+---
+
+## Parking
+
+Use designated participant parking areas.
+
 
 ---
 
@@ -64,9 +70,5 @@ Once you enter the SEB through the **Main Lobby (North Entrance)**:
 
 </div>
 
----
 
-## Parking
-
-Use designated participant parking areas.
 Details coming soon.
