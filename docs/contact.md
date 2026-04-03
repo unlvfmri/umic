@@ -64,3 +64,9 @@ Once you enter the SEB through the **Main Lobby (North Entrance)**:
 
 </div>
 
+---
+
+## Parking
+
+Use designated participant parking areas.
+Details coming soon.
