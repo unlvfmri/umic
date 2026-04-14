@@ -49,7 +49,7 @@ Welcome to the UNLV MR Imaging Core documentation site. This site serves as the 
   </div>
 </a>
 
-<a href="user-docs/">
+<a href="policies/">
   <div class="card">
     <h3>User Documentation</h3>
     <p>Access guides and procedures</p>
