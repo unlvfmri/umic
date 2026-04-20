@@ -2,7 +2,17 @@
 
 *UNLV's hub for advanced brain imaging and interdisciplinary research using MRI technology*
 
-![](assets/fmriseb.jpg)
+<div class="image-row homepage-images">
+
+  <div class="image-item">
+    <img src="/umic/assets/fmriseb.jpg">
+  </div>
+
+  <div class="image-item">
+    <img src="/umic/assets/scanner.jpg">
+  </div>
+
+</div>
 
 Welcome to the UNLV MR Imaging Core documentation site. This site serves as the central hub for researchers seeking access to UNLV’s MRI. Whether you are a new or returning user, this resource is designed to help ensure safe, compliant, and successful use of the UNLV MRI.
 

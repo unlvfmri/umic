@@ -312,3 +312,8 @@
 .contact-card:hover {
   box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
+/* Homepage image row */
+.homepage-images .image-item img {
+  height: 300px;        /* adjust if needed */
+  object-fit: cover;
+}
