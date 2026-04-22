@@ -37,4 +37,4 @@ Access is granted in three tiers based on your training and experience:
 
 ### Annual Recertification
 
-All MR safety certifications for non-MR personnel, Level 1 and Level 2 personnel are valid for a period of one (1) calendar year from the date of the most recent accessment and must be renewed annually.
+All MR safety certifications for non-MR personnel, Level 1 and Level 2 personnel are valid for a period of one (1) calendar year from the date of the most recent assessment and must be renewed annually.
