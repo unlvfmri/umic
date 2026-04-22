@@ -69,6 +69,3 @@ Use designated participant parking areas.
   </div>
 
 </div>
-
-
-Details coming soon.
