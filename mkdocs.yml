@@ -2,7 +2,7 @@ site_name: UNLV MR Imaging Core
 
 theme:
   name: material
-  logo: assets/unlvreverse.png
+  logo: assets/UMIC-23.png
   palette:
     primary: custom
   features:
