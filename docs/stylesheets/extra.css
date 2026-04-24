@@ -319,5 +319,8 @@
 }
 /* Make header logo bigger */
 .md-header__button.md-logo img {
-  height: 50px;
+  height: 48px;
+}
+.md-header__title {
+  margin-left: 8px;
 }
