@@ -322,5 +322,11 @@
   height: 48px;
 }
 .md-header__title {
-  margin-left: 8px;
+  margin-left: 10px;
+}
+.md-typeset h1 + p {
+  margin-bottom: 15px;
+}
+.image-row img {
+  border-radius: 8px;
 }
