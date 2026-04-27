@@ -334,3 +334,6 @@
   color: #ffffff;
   text-decoration: underline;
 }
+.md-footer a {
+  margin: 0 4px;
+}
