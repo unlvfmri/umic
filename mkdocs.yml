@@ -45,5 +45,8 @@ markdown_extensions:
   - pymdownx.details
 
 copyright: >
-  © 2026 UNLV MR Imaging Core. All rights reserved. | 
-  <a href="https://www.unlv.edu/web/accessibility">Web Accessibility</a>
+  © 2026 UNLV MR Imaging Core. All rights reserved. |
+  <a href="https://www.unlv.edu/">UNLV</a> |
+  <a href="/umic/contact/">Contact</a> |
+  <a href="https://www.unlv.edu/web/accessibility">Web Accessibility</a> |
+  <a href="https://www.unlv.edu/privacy-policy">Privacy Policy</a>
