@@ -43,3 +43,7 @@ markdown_extensions:
   - attr_list
   - admonition
   - pymdownx.details
+
+copyright: >
+  © UNLV MR Imaging Core | 
+  <a href="https://www.unlv.edu/web/accessibility">Web Accessibility</a>
