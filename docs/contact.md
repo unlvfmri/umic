@@ -41,7 +41,6 @@ Use designated participant parking areas.
       <h3>Minerva Massis, R.T.(R)(MR)(ARRT)</h3>
       <p><em>Senior fMRI Technologist and Lab Manager</em></p>
       <p><strong>Phone:</strong> 702-895-4822</p>
-      <p><strong>Cell:</strong> 702-286-9286</p>
       <p><strong>Email:</strong> <a href="mailto:minerva.massis@unlv.edu">minerva.massis@unlv.edu</a></p>
     </div>
   </div>
