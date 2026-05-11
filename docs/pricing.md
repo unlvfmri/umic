@@ -1,7 +1,7 @@
 <p>
   Access the 
   <a href="https://drive.google.com/file/d/130dR_h_Cmzz4nNsXUtxY95yTLhqZg8Ru/view" target="_blank">
-    UNLV MR Imaging Core (UMIC): Policies and Procedures Manual
+    UNLV MR Imaging Core (UMIC): Pricing
   </a>.
 </p>
 
