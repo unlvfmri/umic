@@ -1,0 +1,339 @@
+/* ============================= */
+/* UNLV Branding Colors */
+/* ============================= */
+
+:root {
+  --md-primary-fg-color: #BA0C2F;
+  --md-primary-fg-color--light: #d61a3c;
+  --md-primary-fg-color--dark: #8f0923;
+}
+
+/* ============================= */
+/* Typography */
+/* ============================= */
+
+.md-typeset {
+  font-size: 1.3em;
+  line-height: 1.7;
+}
+
+.md-typeset h1 {
+  font-size: 2.4em;
+  margin-bottom: 5px;
+}
+
+.md-typeset h2 {
+  font-size: 1.8em;
+  font-weight: 600;
+  margin-top: 1.2em;
+}
+
+.md-typeset h3 {
+  font-size: 1.3em;
+  margin-top: 1em;
+  font-weight: 600;
+}
+
+.md-typeset p {
+  font-size: 1.1em;
+  margin-bottom: 12px;
+}
+
+.md-typeset li {
+  font-size: 1.1em;
+  margin-bottom: 4px;
+}
+
+/* ============================= */
+/* Links */
+/* ============================= */
+
+.md-typeset a {
+  color: #0055A2;
+  text-decoration: underline;
+  font-weight: 500;
+}
+
+.md-typeset a:hover {
+  color: #003f7d;
+}
+
+/* ============================= */
+/* Hero Image (homepage only) */
+/* ============================= */
+
+.md-typeset > p > img:first-child {
+  width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+  border-radius: 6px;
+  margin-top: 8px;
+  margin-bottom: 15px;
+}
+
+/* ============================= */
+/* Card Layout */
+/* ============================= */
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 16px;
+  margin-top: 12px;
+  margin-bottom: 24px;
+}
+
+.card {
+  display: block;
+  padding: 26px;
+  background-color: #f9f9f9;
+  border: 2px solid #a30a28;
+  border-radius: 12px;
+  text-decoration: none;
+  color: #000;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+  transition: all 0.2s ease;
+}
+
+.card h3 {
+  margin-top: 0;
+  margin-bottom: 12px;
+  font-size: 1.35em;
+}
+
+.card p {
+  margin: 0;
+  font-size: 1.1em;
+}
+
+.card:hover {
+  background-color: #BA0C2F;
+  color: #fff;
+  transform: translateY(-4px);
+  box-shadow: 0 6px 14px rgba(0,0,0,0.15);
+}
+
+.card:hover h3,
+.card:hover p {
+  color: #fff;
+}
+
+/* ============================= */
+/* Sidebar */
+/* ============================= */
+
+.md-nav__list > .md-nav__item > .md-nav__link {
+  font-size: 1.1em;
+  font-weight: 600;
+}
+
+.md-nav__list .md-nav__list .md-nav__link {
+  font-size: 0.95em;
+}
+
+/* ============================= */
+/* Hide right TOC */
+/* ============================= */
+
+.md-sidebar--secondary {
+  display: none !important;
+}
+
+/* ============================= */
+/* Admonitions (callouts) */
+/* ============================= */
+
+.md-typeset .admonition {
+  margin-bottom: 12px;
+  border-radius: 8px;
+}
+
+/* Optional UNLV-style note */
+.md-typeset .admonition.note {
+  border-left: 4px solid #f4b400;
+}
+
+.md-typeset .admonition.note > .admonition-title {
+  background-color: #fff6d6;
+}
+
+/* ============================= */
+/* Two-column layout */
+/* ============================= */
+
+.two-col {
+  display: flex;
+  gap: 25px;
+  margin: 15px 0;
+  align-items: flex-start;
+}
+
+.col-text {
+  width: 55%;
+}
+
+.col-image {
+  width: 45%;
+}
+
+.col-image img {
+  width: 100%;
+  border-radius: 6px;
+}
+
+/* ============================= */
+/* Image rows (side-by-side images) */
+/* ============================= */
+
+.image-row {
+  display: flex;
+  gap: 25px;
+  margin: 15px 0 20px 0;
+}
+
+.image-item {
+  width: 50%;
+  text-align: center;
+}
+
+/* 🔑 FIXED IMAGE BEHAVIOR */
+.image-item img {
+  width: 100%;
+  max-height: 420px;
+  object-fit: contain;   /* NO CROPPING */
+  border-radius: 6px;
+  background-color: #fff;
+}
+
+/* Labels under images */
+.image-item p {
+  margin-top: 8px;
+  font-size: 1em;
+  font-weight: 500;
+  color: #555;
+}
+
+/* ============================= */
+/* Single image layout */
+/* ============================= */
+
+.image-item.single {
+  width: 48%;
+  margin: 10px 0 20px 0;
+}
+
+/* ============================= */
+/* Spacing cleanup */
+/* ============================= */
+
+.md-typeset hr {
+  margin: 0.8em 0;
+}
+
+.md-main__inner {
+  padding-bottom: 60px;
+}
+/* ============================= */
+/* UNLV Callout Styling */
+/* ============================= */
+
+/* 🔴 WARNING (red) */
+.md-typeset .admonition.warning {
+  border-left: 4px solid #BA0C2F;
+}
+
+.md-typeset .admonition.warning > .admonition-title {
+  background-color: #f5e6e8;
+  color: #333;
+}
+
+/* 🔵 NOTE (blue) */
+.md-typeset .admonition.note {
+  border-left: 4px solid #1976d2;
+}
+
+.md-typeset .admonition.note > .admonition-title {
+  background-color: #e3f2fd;
+  color: #333;
+}
+.contact-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15px;
+  margin-top: 10px;
+}
+
+/* Make cards slightly tighter */
+.contact-card {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 12px;
+}
+
+/* Smaller images */
+.contact-card img {
+  width: 70px;
+  height: 70px;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+/* Text tighter */
+.contact-info h3 {
+  font-size: 1.05em;
+  margin: 0;
+}
+
+.contact-info p {
+  font-size: 0.9em;
+  margin: 2px 0;
+}
+@media (max-width: 900px) {
+  .contact-grid {
+    grid-template-columns: 1fr;
+  }
+}
+.contact-card {
+  align-items: flex-start;
+}
+/* Add space below contact cards */
+.contact-grid {
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+/* Space after callout boxes */
+.md-typeset .admonition {
+  margin-bottom: 20px;
+}
+.contact-card:hover {
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+/* Homepage image row */
+.homepage-images .image-item img {
+  height: 300px;        /* adjust if needed */
+  object-fit: cover;
+}
+/* Make header logo bigger */
+.md-header__button.md-logo img {
+  height: 48px;
+}
+.md-header__title {
+  margin-left: 10px;
+}
+.md-typeset h1 + p {
+  margin-bottom: 15px;
+}
+.image-row img {
+  border-radius: 8px;
+}
+.md-footer a {
+  color: #ffffff;
+  text-decoration: underline;
+}
+.md-footer a {
+  margin: 0 4px;
+}
