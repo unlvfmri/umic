@@ -12,7 +12,7 @@
 
 ### Step 2: Proposal Approval
 
-Submit your study protocol and proof of IRB approval for administrative review. Our team will evaluate the technical requirements of your project to ensure success on our system. You will receive a formal notification once your project is cleared for data collection.
+Submit your project Proposal and proof of IRB approval (if available) for review by the UMIC fMRI advisory committee. The committee will evaluate your project and if successful you will receive a formal notification once your project is cleared for data collection. Please see the [pricing](../pricing) tab for detailed information.
 
 ---
 
