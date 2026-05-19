@@ -1,6 +1,6 @@
 <p>
   Access the 
-  <a href="https://drive.google.com/file/d/1U1ygpDrvJPElgqx9vWT04Mov_3SugsoI/view" target="_blank">
+  <a href="https://drive.google.com/file/d/18nbWlhucbBdZFG6oEENEHf_lZesggYmB/view" target="_blank">
     UNLV MR Imaging Core (UMIC): Pricing
   </a>.
 </p>
