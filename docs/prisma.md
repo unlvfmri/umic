@@ -1,4 +1,4 @@
-![](assets/scanner.jpg)
+![Siemens Prisma 3T MRI machine](assets/scanner.jpg)
 We are proud to announce the very first intallation of the **Siemens Prisma 3T MRI** at UNLV.
 
 ---
@@ -20,12 +20,12 @@ We are proud to announce the very first intallation of the **Siemens Prisma 3T M
       <li>1235C – Waiting Lobby</li>
       <li>1235D - Janitorial Room</li>
       <li>1235F - Scan Room</li>
-	  <li>1235G - Control Room</li>
-	  <li>1235H - Vestigule</li>
-	  <li>1235J - Electrical Room</li>
+      <li>1235G - Control Room</li>
+      <li>1235H - Vestibule</li>
+      <li>1235J - Electrical Room</li>
     </ul>
 
-</div>
+  </div>
 
   <div class="col-image">
     <img src="/umic/assets/scannerlocation.jpg" alt="fMRI scanner location on map in the far top right of the Science and Engineering Building (SEB) at UNLV">
@@ -49,7 +49,7 @@ We are proud to announce the very first intallation of the **Siemens Prisma 3T M
   </div>
 
   <div class="image-item">
-    <img src="/umic/assets/headcoil32.jpg" alt="Head coil 32 MRI equipment>
+    <img src="/umic/assets/headcoil32.jpg" alt="Head coil 32 MRI equipment">
     <p>Head Coil – 32ch</p>
   </div>
 
@@ -77,17 +77,25 @@ We are proud to announce the very first intallation of the **Siemens Prisma 3T M
 
 ### General Use Coils
 
+<div class="image-row">
+
   <div class="image-item single">
-    <img src="/umic/assets/flexcoil4v2.jpg" alt="Flex Coil MRI equipment">
+    <img src="/umic/assets/flexcoil4v2.jpg" alt="Flex coil MRI equipment">
     <p>Flex Coil Large and Small - 4ch</p>
   </div>
+
+</div>
 
 ---
 
 ### Peripheral Equipment
 
-<div class="image-item single">
+<div class="image-row">
+
+  <div class="image-item single">
     <img src="/umic/assets/nordic.jpg" alt="Nordic MRI equipment">
     <p>nordicBrainEx</p>
-	 <p>Clinical Neuroimaging Software for Funcational MRI</p>
+    <p>Clinical Neuroimaging Software for Functional MRI</p>
   </div>
+
+</div>
