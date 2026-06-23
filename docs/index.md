@@ -5,18 +5,18 @@
 <div class="image-row homepage-images">
 
   <div class="image-item">
-    <img src="/umic/assets/fmriseb.jpg">
+    <img src="/umic/assets/fmriseb.jpg" alt="Exterior of the Science and Engineering Building (SEB) at UNLV">
   </div>
 
   <div class="image-item">
-    <img src="/umic/assets/scanner.jpg">
+    <img src="/umic/assets/scanner.jpg" alt="MRI scanner room inside the UNLV MR Imaging Core facility">
   </div>
 
 </div>
 
 Welcome to the UNLV MR Imaging Core documentation site. This site serves as the central hub for researchers seeking access to UNLV’s MRI. Whether you are a new or returning user, this resource is designed to help ensure safe, compliant, and successful use of the UNLV MRI.
 
-
+*Use the search bar in the top right to quickly find training materials, policies, and procedures.*
 
 ---
 ## Start Here

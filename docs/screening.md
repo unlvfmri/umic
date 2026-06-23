@@ -15,11 +15,11 @@ from Zone I toward Zone IV.
 <div class="image-row">
 
   <div class="image-item">
-    <img src="/umic/assets/fourzones.jpg">
+    <img src="/umic/assets/fourzones.jpg" alt="Diagram showing the four MRI safety zones from Zone I to Zone IV">
   </div>
 
   <div class="image-item">
-    <img src="/umic/assets/fMRIdoor.jpeg">
+    <img src="/umic/assets/fMRIdoor.jpeg" alt="MRI room entrance with safety signage indicating restricted access">
   </div>
 
 </div>

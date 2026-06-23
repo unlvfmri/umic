@@ -337,3 +337,7 @@
 .md-footer a {
   margin: 0 4px;
 }
+/* Improve search accessibility */
+.md-search__input {
+  aria-label: "Search UMIC website content";
+}

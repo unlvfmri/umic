@@ -86,7 +86,7 @@ If a participant has a medical emergency inside the scanner:
   </div>
 
   <div class="col-image">
-    <img src="/umic/assets/safetyzones.jpg">
+    <img src="/umic/assets/safetyzones.jpg" alt="Diagram showing the room 1235F as the MRI scan room on the top right">
   </div>
 
 </div>

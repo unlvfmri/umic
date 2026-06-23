@@ -36,7 +36,7 @@ Use designated participant parking areas.
 
   <!-- Minerva -->
   <div class="contact-card">
-    <img src="/umic/assets/minervamassis.jpg">
+    <img src="/umic/assets/minervamassis.jpg" alt="Minerva Massis, Senior fMRI Technologist and Lab Manager">
     <div class="contact-info">
       <h3>Minerva Massis, R.T.(R)(MR)(ARRT)</h3>
       <p><em>Senior fMRI Technologist and Lab Manager</em></p>
@@ -47,7 +47,7 @@ Use designated participant parking areas.
 
   <!-- Sengupta -->
   <div class="contact-card">
-    <img src="/umic/assets/ayansengupta.jpg">
+    <img src="/umic/assets/ayansengupta.jpg" alt="Ayan Sengupta, Associate Director">
     <div class="contact-info">
       <h3>Ayan Sengupta, Ph.D.</h3>
       <p><em>Associate Director</em></p>
@@ -58,7 +58,7 @@ Use designated participant parking areas.
 
   <!-- Davidson -->
   <div class="contact-card">
-    <img src="/umic/assets/krisdavidson.jpg">
+    <img src="/umic/assets/krisdavidson.jpg" alt="Kris Davidson, Executive Research Director">
     <div class="contact-info">
       <h3>Kris Davidson</h3>
       <p><em>Executive Research Director</em></p>

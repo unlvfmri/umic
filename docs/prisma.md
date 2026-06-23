@@ -28,7 +28,7 @@ We are proud to announce the very first intallation of the **Siemens Prisma 3T M
 </div>
 
   <div class="col-image">
-    <img src="/umic/assets/scannerlocation.jpg">
+    <img src="/umic/assets/scannerlocation.jpg" alt="fMRI scanner location on map in the far top right of the Science and Engineering Building (SEB) at UNLV">
   </div>
 
 </div> 
@@ -44,12 +44,12 @@ We are proud to announce the very first intallation of the **Siemens Prisma 3T M
 <div class="image-row">
 
   <div class="image-item">
-    <img src="/umic/assets/headcoil20.jpg">
+    <img src="/umic/assets/headcoil20.jpg" alt="Head coil 20 MRI equipment">
     <p>Head/Neck Coil – 20ch</p>
   </div>
 
   <div class="image-item">
-    <img src="/umic/assets/headcoil32.jpg">
+    <img src="/umic/assets/headcoil32.jpg" alt="Head coil 32 MRI equipment>
     <p>Head Coil – 32ch</p>
   </div>
 
@@ -62,12 +62,12 @@ We are proud to announce the very first intallation of the **Siemens Prisma 3T M
 <div class="image-row">
 
   <div class="image-item">
-    <img src="/umic/assets/bodycoil18.jpg">
+    <img src="/umic/assets/bodycoil18.jpg" alt="Body coil MRI equipment">
     <p>Body Coil (Standard and Long) - 18ch</p>
   </div>
 
   <div class="image-item">
-    <img src="/umic/assets/spinecoil32.jpg">
+    <img src="/umic/assets/spinecoil32.jpg" alt="Spine coil MRI equipment">
     <p>Spine Coil – 32ch</p>
   </div>
 
@@ -78,7 +78,7 @@ We are proud to announce the very first intallation of the **Siemens Prisma 3T M
 ### General Use Coils
 
   <div class="image-item single">
-    <img src="/umic/assets/flexcoil4v2.jpg">
+    <img src="/umic/assets/flexcoil4v2.jpg" alt="Flex Coil MRI equipment">
     <p>Flex Coil Large and Small - 4ch</p>
   </div>
 
@@ -87,7 +87,7 @@ We are proud to announce the very first intallation of the **Siemens Prisma 3T M
 ### Peripheral Equipment
 
 <div class="image-item single">
-    <img src="/umic/assets/nordic.jpg">
+    <img src="/umic/assets/nordic.jpg" alt="Nordic MRI equipment">
     <p>nordicBrainEx</p>
 	 <p>Clinical Neuroimaging Software for Funcational MRI</p>
   </div>
