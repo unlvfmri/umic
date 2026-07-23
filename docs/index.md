@@ -16,8 +16,7 @@
 
 Welcome to the UNLV MR Imaging Core documentation site. This site serves as the central hub for researchers seeking access to UNLV’s MRI. Whether you are a new or returning user, this resource is designed to help ensure safe, compliant, and successful use of the UNLV MRI.
 
-**Tip:** Use the search bar in the top right to quickly find training materials, policies, and procedures.
-
+**Search:** Use the search bar in the top right to quickly find training materials, policies, and procedures.
 ---
 ## Start Here
 
