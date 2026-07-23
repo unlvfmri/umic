@@ -3,6 +3,7 @@ site_name: UNLV MR Imaging Core
 theme:
   name: material
   logo: assets/UMIC-23a.png
+  logo_alt: "UNLV MR Imaging Core (UMIC) logo"
   palette:
     primary: custom
   features:
